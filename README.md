@@ -2,6 +2,9 @@
 
 Smartspaces verifiers are used as flexible way of running tests on complex interactions and relationships between devices and services.
 
+![alt tag](https://github.com/octoblu/smartspaces-verifiers/blob/master/Smartspaces%20Verifier.png)
+
+
 ## Types of Verifiers
 
 ### Action Verifier (High Level)
